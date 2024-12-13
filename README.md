@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dmcote-1991&theme=radical)](https://git.io/streak-stats)
+
 <!--
 **dmcote-1991/dmcote-1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
