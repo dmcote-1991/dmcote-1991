@@ -1,5 +1,6 @@
-## Hi there 👋
+Welcome to my GitHub profile! I’m a full-stack developer passionate about creating accessible, responsive, and dynamic web applications. Check out my projects below, and feel free to connect with me!
 
+### 🔥 GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dmcote-1991&theme=radical)](https://git.io/streak-stats)
 
 <!--
