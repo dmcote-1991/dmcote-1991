@@ -1,19 +1,40 @@
-Welcome to my GitHub profile! I’m a full-stack developer passionate about creating accessible, responsive, and dynamic web applications. Check out my projects below, and feel free to connect with me!
+# Welcome to My GitHub Profile! 👋
 
-### 🔥 GitHub Stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=dmcote-1991)](https://git.io/streak-stats)
+Hi! I'm David Cote, a full-stack developer passionate about creating accessible, responsive, and dynamic web applications. Check out my projects below, and feel free to connect with me!
 
-<!--
-**dmcote-1991/dmcote-1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Contact Me 📬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="mailto:davidcote.dev@gmail.com"><img src="https://img.shields.io/badge/Email-davidcote.dev@gmail.com-blue?style=flat&logo=gmail" alt="Email"></a><br>
+  <a href="https://www.linkedin.com/in/davidcote-dev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-davidcote--dev-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+</p>
+
+---
+
+### My GitHub Stats 📊
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=dmcote-1991&theme=radical)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dmcote-1991&layout=compact&theme=radical)](https://github.com/dmcote-1991)
+
+---
+
+### My Tech Stack 💻
+
+| **Programming Languages** | **Frameworks & Libraries** | **Tools & Platforms** |
+|---------------------------|----------------------------|-----------------------|
+| ⚡ JavaScript              | ⚛️ React                   | 📁 Git                |
+| 🛠️ TypeScript             | 🟩 NodeJS                  | 🔗 REST API           |
+| 💻 HTML 5                 | 🚀 Express                 | ⚡ WebPack             |
+| 🎨 CSS 3                  |                            |                       |
+
+| **Databasing**            | **Methodologies**          | **Currently Learning** |
+|---------------------------|----------------------------|------------------------|
+| 🗄️ MongoDB                | 🔄 OOP                     | 📚 Redux               |
+| 📚 SQLite                 | 🔍 Accessibility (508 & WCAG) | ☁️ AWS                 |
+| 🔑 Sequelize ORM          | 💬 Clear Communication     | 🧪 Jest                |
+|                           | 🤝 Team Collaboration      | 🐱 Cypress             |
+|                           |                            | 🔑 JWT                 |
+|                           |                            | 🔒 OAuth               |
