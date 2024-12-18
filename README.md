@@ -1,6 +1,9 @@
-# Welcome to My GitHub Profile! 👋
+# **David Cote | Full-Stack Developer Seeking Opportunities**  
 
-Hi! I'm David Cote, a full-stack developer passionate about creating accessible, responsive, and dynamic web applications. Check out my projects below, and feel free to connect with me!
+Welcome to my GitHub profile! 👋  
+Hi! I’m David Cote, a certified full-stack web developer passionate about building accessible, responsive, and dynamic web applications. I’m currently seeking opportunities where I can apply my skills in JavaScript, TypeScript, React, and Node.js to create impactful software solutions.  
+
+Feel free to explore my portfolio projects below, connect with me on [LinkedIn](https://linkedin.com/in/davidcote-dev), or reach out via email at [davidcote.dev@gmail.com](mailto:davidcote.dev@gmail.com). Let’s build something amazing together!  
 
 ---
 
