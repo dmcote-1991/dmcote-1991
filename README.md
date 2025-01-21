@@ -1,9 +1,14 @@
-# **David Cote | Full-Stack Developer Seeking Opportunities**  
+# **David Cote | Software Developer at Saleo, Inc.**  
 
-Welcome to my GitHub profile! 👋  
-Hi! I’m David Cote, a certified full-stack web developer passionate about building accessible, responsive, and dynamic web applications. I’m currently seeking opportunities where I can apply my skills in JavaScript, TypeScript, React, and Node.js to create impactful software solutions.  
+**Welcome to my GitHub profile!** 👋  
+Hi! I’m David Cote, a full-stack developer dedicated to creating innovative software applications. At Saleo, Inc., I’m passionate about empowering software companies to deliver impactful, data-complete SaaS demos that address customer pain points, accelerate sales cycles, and drive success.
 
-Feel free to explore my portfolio projects below, connect with me on [LinkedIn](https://linkedin.com/in/davidcote-dev), or reach out via email at [davidcote.dev@gmail.com](mailto:davidcote.dev@gmail.com). Let’s build something amazing together!  
+💻 **Technologies I Use:** JavaScript, TypeScript, React, Node.js, MongoDB, and SQL
+
+🌟 **Passionate About:** Creating impactful software demos, solving customer challenges, and building accessible, responsive applications
+
+Feel free to explore my portfolio projects below and connect with me on [LinkedIn](https://linkedin.com/in/davidcote-dev). 
+Let’s build something amazing together!
 
 ---
 
