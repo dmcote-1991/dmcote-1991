@@ -1,4 +1,4 @@
-# **David Cote | Software Developer at Saleo, Inc.**  
+# **David Cote | Software Engineer at Saleo, Inc.**  
 
 **Welcome to my GitHub profile!** 👋  
 Hi! I’m David Cote, a full-stack developer dedicated to creating innovative software applications. At Saleo, Inc., I’m passionate about empowering software companies to deliver impactful, data-complete SaaS demos that address customer pain points, accelerate sales cycles, and drive success.
